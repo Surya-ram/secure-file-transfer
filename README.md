@@ -21,8 +21,8 @@ The project follows a client-server architecture with strict security principles
 - upload.tsx: Encrypts and uploads the file
 - download.tsx: Downloads and decrypts the file
 - api/upload.ts: Temporarily stores encrypted data
-## Code :
-#  upload.tsx – Secure File Upload with AES Encryption
+# Code :
+# upload.tsx – Secure File Upload with AES Encryption
 ```
 'use client'
 import { useState } from 'react'
@@ -118,8 +118,9 @@ export default function DownloadPage() {
 <img width="1650" height="839" alt="image" src="https://github.com/user-attachments/assets/1a78060b-f959-45e4-ae0e-d6557e2b62e7" />
 <img width="1653" height="849" alt="image" src="https://github.com/user-attachments/assets/0aa77361-9ad2-4bb8-a819-e9610e388b00" />
 
-# Live demo : https://bolt.new/~/sb1-suxhby8y
+## Live demo : https://bolt.new/~/sb1-suxhby8y
 # Features :
+
 1. Drag & drop file upload with security validation
 
 2.Real-time encryption status and security metrics
