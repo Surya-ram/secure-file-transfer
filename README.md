@@ -121,11 +121,17 @@ export default function DownloadPage() {
 # Live demo : https://bolt.new/~/sb1-suxhby8y
 # Features :
 1. Drag & drop file upload with security validation
+
 2.Real-time encryption status and security metrics
+
 3.File integrity verification with hash generation
+
 4.Secure transfer simulation with progress tracking
+
 5.Authentication simulation with security levels
+
 6.Security best practices and protocol information
+
 7.Threat detection and security warnings
 # Result :
 This project effectively demonstrates core cybersecurity principles such as encryption, secure key exchange, and temporary data handling using a modern web framework. It is suitable for secure peer-to-peer file sharing in bothpersonal and professional contexts.
